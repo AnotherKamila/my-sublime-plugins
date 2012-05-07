@@ -15,6 +15,21 @@
 					}
 				]
 			}
+		},
+		{
+			"name": "Theme - Solarized",
+			"description": "Slightly modified default theme -- matches the Solarized palette",
+			"author": "Kamila Souckova",
+			"homepage": "http://github.com/anotherkamila/my-sublime-plugins/",
+			"last_modified": "2012-05-07 18:44:31",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.1",
+						"url": "https://github.com/downloads/AnotherKamila/my-sublime-plugins/Theme%20-%20Solarized.sublime-package"
+					}
+				]
+			}
 		}
 	]
 }
